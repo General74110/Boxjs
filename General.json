@@ -43,8 +43,8 @@
       "id": "QQreader",
       "name": "QQ阅读",
       "keys": [
-        "Cookies",
-        "clearCookies"
+        "Cookies"
+      
       ],
       "author": "@General℡",
       "repo": "https://github.com/General74110",
@@ -54,16 +54,32 @@
       ],
       "settings": [
         {
-          "id": "clearCookies",
-          "name": "清除Cookies",
-          "val": "0",
-          "type": "number",
-          "placeholder": "0为关闭,1为开启",
-          "desc": "清除Cookies"
+          "id": "ywguid",
+          "name": "ywguid",
+          "val": "",
+          "type": "text",
+          "placeholder": "",
+          "desc": ""
         },
         {
-          "id": "Cookies",
-          "name": "QQ阅读",
+          "id": "ywkey",
+          "name": "ywkey",
+          "val": "",
+          "type": "text",
+          "placeholder": "",
+          "desc": ""
+        },
+        {
+          "id": "ywtoken",
+          "name": "ywtoken",
+          "val": "",
+          "type": "text",
+          "placeholder": "",
+          "desc": ""
+        },
+        {
+          "id": "csigs",
+          "name": "csigs",
           "val": "",
           "type": "text",
           "placeholder": "",
