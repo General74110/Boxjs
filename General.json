@@ -43,8 +43,10 @@
       "id": "QQreader",
       "name": "QQ阅读",
       "keys": [
-        "Cookies"
-      
+        "ywguid",
+        "ywkey",
+        "ywtoken",
+        "csigs"
       ],
       "author": "@General℡",
       "repo": "https://github.com/General74110",
