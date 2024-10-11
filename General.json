@@ -89,6 +89,31 @@
       "script": "https://raw.githubusercontent.com/General74110/Config/master/Script/Task/QQreader.js"
     },
     {
+      "id": "xmly",
+      "name": "喜马拉雅",
+      "keys": [
+        "xmlytoken"
+      ],
+      "desc": "",
+      "settings": [
+        {
+          "id": "xmlytoken",
+          "name": "喜马拉雅Token",
+          "val": "",
+          "type": "text",
+          "placeholder": "输入多个账号Token，用&隔开",
+          "desc": "抓取的1&_token，多个Token用&隔开"
+        }
+      ],
+      "author": "@General℡",
+      "repo": "https://github.com/General74110",
+      "icons": [
+        "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png",
+        "https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Himalaya.png"
+      ],
+      "script": "https://raw.githubusercontent.com/General74110/Config/master/Script/Task/xmly.js"
+    },
+    {
       "id": "kuwo",
       "name": "酷我音乐",
       "keys": [
