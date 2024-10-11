@@ -101,8 +101,8 @@
           "name": "喜马拉雅Token",
           "val": "",
           "type": "text",
-          "placeholder": "输入多个账号Token，用&隔开",
-          "desc": "抓取的1&_token，多个Token用&隔开"
+          "placeholder": "输入多个账号Token，用#隔开",
+          "desc": "抓取的1&_token，多个Token用#隔开"
         }
       ],
       "author": "@General℡",
