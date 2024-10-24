@@ -27,7 +27,7 @@
           "name": "登陆UID",
           "val": "",
           "type": "text",
-          "placeholder": "输入多个账号UID，用&隔开",
+          "placeholder": "多个 loginUid 用 & 或 , 分隔",
           "desc": "抓取的loginUid，多个UID用&隔开"
         }
       ],
